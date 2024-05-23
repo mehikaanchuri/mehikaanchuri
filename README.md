@@ -12,8 +12,8 @@ I am an Associate Data Governance Engineer with over 6 months of experience ensu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehika anchuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehika anchuri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mehika anchuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehika anchuri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehika anchuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehika anchuri" height="20" width="30" /></a> &nbsp;
+<a href="https://www.hackerrank.com/mehika anchuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehika anchuri" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Tools:</h3>
